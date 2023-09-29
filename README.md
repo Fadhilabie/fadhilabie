@@ -4,11 +4,10 @@
 
 ## About Me
 
-- 😄 Pronouns: Fadhilabie
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about Application Network Information System
 - 📫 How to reach me: @fadhilabiu
-- ⚡ Fun fact: Iam an musician
+- ⚡ Fun fact: [Wes Ora]
 
 ## Social Media
 
@@ -23,10 +22,10 @@
 
 Here are some of the projects I'm working on or have worked on:
 
-- [Project 1](https://fadhilabie.github.io/bakpia-fadila/index.html)
+- [Project Bakpia Fadila](https://fadhilabie.github.io/bakpia-fadila/index.html)
 
 ## Fun Facts
 
-- 🎵 I love to Writting Songs
-- 📚 Currently reading: Omniscents Reader Viewpoint
+- 🎵 I love to: Writting Songs
+- 📚 Currently reading: Omniscient reader's viewpoint
 - 🎮 Favorite video game: VALORANT
