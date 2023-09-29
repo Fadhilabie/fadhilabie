@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**Fadhilabie/fadhilabie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Fadhil Muhammad Habibie
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: Fadhilabie
+- 🌱 I’m currently learning React JS
+- 💬 Ask me about Application Network Information System
+- 📫 How to reach me: @fadhilabiu
+- ⚡ Fun fact: Iam an musician
+
+## Social Media
+
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@myebiez)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/fadhilabiu/)
+
+## GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/fadhilabie/github-readme-stats)
+
+## My Projects
+
+Here are some of the projects I'm working on or have worked on:
+
+- [Project 1](https://fadhilabie.github.io/bakpia-fadila/index.html)
+
+## Fun Facts
+
+- 🎵 I love to Writting Songs
+- 📚 Currently reading: Omniscents Reader Viewpoint
+- 🎮 Favorite video game: VALORANT
