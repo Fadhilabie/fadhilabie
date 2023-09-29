@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🌱 I’m currently learning React JS
-- 💬 Ask me about Application Network Information System
-- 📫 How to reach me: @fadhilabiu
+- 🌱 I’m currently learning React JS.
+- 💬 Ask me about Application Network Information Systems.
+- 🎓 I am a graduate of a vocational high school.
 
 ## Social Media
 
@@ -15,16 +15,16 @@
 
 ## GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/fadhilabie/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhilabie&show_icons=true&theme=radical)](https://github.com/fadhilabie/github-readme-stats)
 
 ## My Projects
 
 Here are some of the projects I'm working on or have worked on:
 
-- [Project Bakpia Fadila](https://fadhilabie.github.io/bakpia-fadila/index.html)
+- [Bakpia Fadila Project](https://fadhilabie.github.io/bakpia-fadila/index.html)
 
 ## Fun Facts
 
-- 🎵 I love to: Writting Songs
-- 📚 Currently reading: Omniscient reader's viewpoint
+- 🎵 I love to: Write Songs
+- 📚 Currently reading: Omniscient Reader's Viewpoint
 - 🎮 Favorite video game: VALORANT
