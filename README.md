@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning React JS
 - 💬 Ask me about Application Network Information System
 - 📫 How to reach me: @fadhilabiu
-- ⚡ Fun fact: [Wes Ora]
 
 ## Social Media
 
