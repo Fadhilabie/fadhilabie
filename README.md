@@ -26,5 +26,5 @@ Here are some of the projects I'm working on or have worked on:
 
 ## My Single
 
-[![Thum<iframe width="560" height="315" src="https://www.youtube.com/embed/0BR2SBrDRRA?si=CEsWfLVLVVPw49nB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Thumbnail Video YouTube](https://img.youtube.com/vi/0BR2SBrDRRA/0.jpg)](https://www.youtube.com/watch?v=0BR2SBrDRRA)
 
