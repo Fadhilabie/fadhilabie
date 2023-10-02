@@ -10,8 +10,7 @@
 
 ## Social Media
 
-[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@myebiez)
-[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/fadhilabiu/)
+- Instagram : [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/fadhilabiu/)
 
 ## GitHub Stats
 
@@ -25,6 +24,9 @@ Here are some of the projects I'm working on or have worked on:
 - [Bootstrap Project](https://fadhilabie.github.io/green-fields/index.html)
 
 ## My Single
+
+My Singles
+Here are my music singles:
 
 [![Thumbnail Video YouTube](https://img.youtube.com/vi/0BR2SBrDRRA/0.jpg)](https://www.youtube.com/watch?v=0BR2SBrDRRA)
 [![Thumbnail Video YouTube](https://img.youtube.com/vi/8wHKJv7fY74/0.jpg)](https://www.youtube.com/watch?v=8wHKJv7fY74)
