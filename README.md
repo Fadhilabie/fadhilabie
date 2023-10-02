@@ -27,4 +27,6 @@ Here are some of the projects I'm working on or have worked on:
 ## My Single
 
 [![Thumbnail Video YouTube](https://img.youtube.com/vi/0BR2SBrDRRA/0.jpg)](https://www.youtube.com/watch?v=0BR2SBrDRRA)
+[![Thumbnail Video YouTube](https://img.youtube.com/vi/8wHKJv7fY74/0.jpg)](https://www.youtube.com/watch?v=8wHKJv7fY74)
+[![Thumbnail Video YouTube](https://img.youtube.com/vi/Jm_j_7pieos/0.jpg)](https://www.youtube.com/watch?v=Jm_j_7pieos)
 
