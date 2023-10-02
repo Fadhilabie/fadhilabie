@@ -10,7 +10,9 @@
 
 ## Social Media
 
-- Instagram : [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/fadhilabiu/)
+- Instagram :
+
+  [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/fadhilabiu/)
 
 ## GitHub Stats
 
