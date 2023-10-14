@@ -8,7 +8,7 @@
 
 ## About Me
 
-- <i class="fas fa-user-graduate"></i> I'm currently learning React JS.
+- 📚 I'm currently learning React JS.
 - 💬 Ask me about Application Network Information Systems.
 - 🎓 I am a graduate of a vocational high school.
 
