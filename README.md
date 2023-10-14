@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div class="hero-img-section">
     <img src="img/fadhilabie.png"  align="right" alt="Coding">
 </div>
