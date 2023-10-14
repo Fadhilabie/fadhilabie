@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning React JS.
+- <i class="fas fa-user-graduate">I’m currently learning React JS.</i> 
 - 💬 Ask me about Application Network Information Systems.
 - 🎓 I am a graduate of a vocational high school.
 
