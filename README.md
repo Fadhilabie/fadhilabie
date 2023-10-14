@@ -2,6 +2,8 @@
     <img src="img/fadhilabie.png"  align="right" alt="Coding">
 </div>
 
+<br>
+
 ## About Me
 
 - 🌱 I’m currently learning React JS.
