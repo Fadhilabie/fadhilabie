@@ -2,7 +2,7 @@
     <img src="img/fadhilabie.png"  align="right" alt="Coding">
 </div>
 
-<br>
+*.*
 
 ## About Me
 
