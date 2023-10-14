@@ -8,7 +8,7 @@
 
 ## About Me
 
-- <img src="link_to_graduation_cap.svg" width="16" height="16" /> I’m currently learning React JS.
+- <i class="fas fa-user-graduate"></i> I'm currently learning React JS.
 - 💬 Ask me about Application Network Information Systems.
 - 🎓 I am a graduate of a vocational high school.
 
