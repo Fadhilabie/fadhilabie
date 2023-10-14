@@ -9,8 +9,9 @@
 ## About Me
 
 - 📚 I'm currently learning React JS.
+- 🤓 I am a student at a vocational high school.
 - 💬 Ask me about Application Network Information Systems.
-- 🎓 I am a graduate of a vocational high school.
+
 
 
 ## My Projects
