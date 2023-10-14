@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-# I'm Fadhil Muhammad Habibie
+<div class="hero-img-section">
+    <img src="img/banner.png"  align="right" alt="Coding">
+</div>
 
 ## About Me
 
