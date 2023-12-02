@@ -8,7 +8,7 @@
 
 ## About Me
 
-- 📚 I'm currently learning React JS.
+- 📚 I'm currently learning LARAVEL.
 - 🤓 I am a student at a vocational high school.
 - 💬 Ask me about Application Network Information Systems.
 
