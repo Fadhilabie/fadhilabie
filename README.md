@@ -8,11 +8,8 @@
 
 ## My Medium For Tutorial
 
-<a href="https://medium.com/@fadhilmuhhab" target="_blank" rel="noreferrer" >
-<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" width="40" height="40"/> 
-</a> 
-
-[You must see this!](https://medium.com/@fadhilmuhhab)
+<a href="https://medium.com/@fadhilmuhhab" target="_blank" rel="noreferrer" > <img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" width="40" height="40"/> 
+</a> [You must see this!](https://medium.com/@fadhilmuhhab)
 
 ## About Me
 
