@@ -8,8 +8,8 @@
 
 ## My Medium For Tutorial
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" >
-<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://github.com/Fadhilabie/fadhilabie/assets/132025341/8cebc20c-192c-4224-acaf-b3b2185b0ca2)" alt="medium" width="40" height="40"/> 
+<a href="https://medium.com/@fadhilmuhhab" target="_blank" rel="noreferrer" >
+<img src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="medium" width="40" height="40"/> 
 </a> 
 
 [You must see this!](https://medium.com/@fadhilmuhhab)
