@@ -7,7 +7,7 @@
 *.*
 
 ## My Medium For Tutorial
-
+![image](https://github.com/Fadhilabie/fadhilabie/assets/132025341/8cebc20c-192c-4224-acaf-b3b2185b0ca2)
 [You must see this!](https://medium.com/@fadhilmuhhab)
 
 ## About Me
