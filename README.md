@@ -6,6 +6,10 @@
 
 *.*
 
+## My Medium For Tutorial
+
+[You must see this!](https://medium.com/@fadhilmuhhab)
+
 ## About Me
 
 - 📚 I'm currently learning LARAVEL.
