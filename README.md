@@ -7,7 +7,11 @@
 *.*
 
 ## My Medium For Tutorial
-![image](https://github.com/Fadhilabie/fadhilabie/assets/132025341/8cebc20c-192c-4224-acaf-b3b2185b0ca2)
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer" >
+<img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg](https://github.com/Fadhilabie/fadhilabie/assets/132025341/8cebc20c-192c-4224-acaf-b3b2185b0ca2)" alt="medium" width="40" height="40"/> 
+</a> 
+
 [You must see this!](https://medium.com/@fadhilmuhhab)
 
 ## About Me
